@@ -1,6 +1,6 @@
 ﻿Column1;Column2;Column3;Column4
-latitude,longitude,PM2.5,timestamp
-49.8397,24.0297,28,2026-04-01
+latitude;longitude;PM2.5;timestamp
+49.8397;24.0297;28;2026-04-01
 49.8397;24.0297;35;2026-04-02
 49.8397;24.0297;42;2026-04-03
 49.8397;24.0297;55;2026-04-04
